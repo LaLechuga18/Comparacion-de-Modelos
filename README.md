@@ -5,7 +5,6 @@
 
 Este proyecto compara el rendimiento entre dos modelos clásicos de Machine Learning para la detección de problemas cardiacos:  
 - **Árbol de Decisión (DecisionTreeClassifier)**  
-- *(Opcionalmente se podría agregar Regresión Logística, pero la práctica actual solo implementa el árbol.)*
 
 El análisis se realiza utilizando un dataset de pacientes, evaluando la relación entre **edad**, **colesterol** y el diagnóstico de **problema cardíaco**.
 
